@@ -1,0 +1,79 @@
+.sponsor {
+	border-radius: 15px;
+	padding: 1em; 
+	width: 70%;
+	position: relative;
+	border: 1px solid #0d0c0c;
+}
+
+.container
+{
+    height: 30em; 
+    min-height: 100px;
+}
+
+.first {
+    float: left;
+    width: 40%;
+    height: 100%;
+    overflow: hidden;
+	margin: 10px auto 10px;
+	padding: 10px 20px 20px 20px;
+	background: #ccccd1;
+	color: white;
+	/*border: 1px solid #5d5a5a;*/
+}
+
+.container, h2 {
+	text-align: center;
+	color: white;
+}
+
+.h5-tile {
+	text-align: center;
+	color: #e4e1e1;
+}
+
+
+.second{
+    float: left;
+    width: 40%;
+    height: 100%;
+    overflow: hidden;
+	margin: 10px auto 10px 20px;
+	padding: 10px 20px 20px 20px;
+	background: #ccccd1;
+}
+
+.tile-t {
+	text-align: center;
+	background: #070459;
+	color: white;
+}
+
+.tile-b {
+	text-align: center;
+	background: #ccccd1;
+	color: black;
+}
+
+.third{
+    float: right;
+    width: 80%;
+    height: 80%;
+    background-color: blue;
+}
+
+.fourth {
+    float: right;
+    width: 40%;
+    height: 20%;
+    background-color: #DDDDDD;
+}
+
+.last{
+    float: right;
+    width: 40%;
+    height: 20%;
+    background-color: yellow;
+}
